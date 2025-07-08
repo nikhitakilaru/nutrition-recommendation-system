@@ -44,6 +44,11 @@ Therefore, "accuracy" here refers to how many expected health suggestions (tips)
 
 Evaluating: sample_user(unhealthy).csv
 Accuracy: 4/4 matched → 100.00%
+ Popup Output (Demo)
+
+Below is a screenshot of the popup that appears after running `main.py`:
+
+![Popup Output](assets/popuup_output.jpg)
 
 
 
