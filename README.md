@@ -29,8 +29,8 @@ Therefore, "accuracy" here refers to how many expected health suggestions (tips)
  How It Works
 
 - The file `evaluate_accuracy.py` runs the recommendation system on test users:
-  - `sample_user_1_healthy.csv`
-  - `sample_user_2_unhealthy.csv`
+  - `sample_user(healthy).csv`
+  - `sample_user(unhealthy).csv`
 - Each test case has a known set of expected recommendations
 - The evaluator compares actual output vs expected tips and reports an accuracy percentage
 
